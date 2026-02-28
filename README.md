@@ -12,16 +12,6 @@
 
 ---
 ## 🚀 Projects I'm Building
-
-🔎 **Log Analyzer**  
-Detects failed login attempts from Linux auth logs using regex and Python.
-
-🧠 **IP Reputation Checker**  
-Uses AbuseIPDB API to flag suspicious IPs found in logs.
-
-📢 **SOC Alert Bot**  
-Monitors logs and sends alerts to Slack in real-time.
-
 ⌨️ **Python Keylogger (Educational Purpose)**  
 Built a basic keylogger in Python to understand how keystroke logging works.  
 Captured keystrokes locally and analyzed log patterns for security awareness and detection techniques.  
